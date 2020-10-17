@@ -1,0 +1,10 @@
+vim
+.vscode/
+log
+.swp/
+*.gvmi
+.swp
+__pycache__/
+in.hash
+logs/
+outputs/
