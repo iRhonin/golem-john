@@ -22,4 +22,4 @@
 
 11. chmod +x crack.sh
 
-12. python run.py 5d41402abc4b2a76b9719d911017c592 --number-of-providers
+12. python run.py 5d41402abc4b2a76b9719d911017c592 --number-of-providers 4
